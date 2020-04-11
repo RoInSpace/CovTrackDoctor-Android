@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "704556754843",
+    "firebase_url": "https://covid-c1101.firebaseio.com",
+    "project_id": "covid-c1101",
+    "storage_bucket": "covid-c1101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704556754843:android:180e9b6da02698fa03e33e",
+        "android_client_info": {
+          "package_name": "com.roinspace.covtrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704556754843-ncqmff7ij7ku8lt0jgtqa4np1fp15vs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpnxJBwidxOqjJivP0PAkO9AGQNhj11U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704556754843-ncqmff7ij7ku8lt0jgtqa4np1fp15vs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704556754843:android:b8e74b063a25e4f803e33e",
+        "android_client_info": {
+          "package_name": "com.roinspace.covtrackdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704556754843-ncqmff7ij7ku8lt0jgtqa4np1fp15vs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpnxJBwidxOqjJivP0PAkO9AGQNhj11U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704556754843-ncqmff7ij7ku8lt0jgtqa4np1fp15vs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
